@@ -1,0 +1,25 @@
+# customized
+gpextreme/core/__pycache__
+gpextreme/core/.ipynb_checkpoints
+
+
+gpextreme/oscillator/results
+gpextreme/oscillator/plots
+gpextreme/oscillator/true_funcs
+gpextreme/oscillator/job.sh
+gpextreme/oscillator/__pycache__
+gpextreme/oscillator/.ipynb_checkpoints
+
+gpextreme/sir/results
+gpextreme/sir/plots
+gpextreme/sir/true_funcs
+gpextreme/sir/job.sh
+gpextreme/sir/__pycache__
+gpextreme/sir/.ipynb_checkpoints
+
+gpextreme/gaussian/results
+gpextreme/gaussian/plots
+gpextreme/gaussian/true_funcs
+gpextreme/gaussian/job.sh
+gpextreme/gaussian/__pycache__
+gpextreme/gaussian/.ipynb_checkpoints
